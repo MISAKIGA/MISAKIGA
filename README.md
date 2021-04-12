@@ -1,5 +1,10 @@
 ### Hi there 👋
+
+Like playing badminton and running, occasionally play basketball. A learning fanatic✨. Like to research the latest technology. 
+
+
 ![](https://github-readme-stats.vercel.app/api?username=misakiga)
+
 <!--
 **MISAKIGA/MISAKIGA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Dino](https://raw.githubusercontent.com/MISAKIGA/MISAKIGA/main/dino.gif)
