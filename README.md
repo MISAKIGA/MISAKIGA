@@ -5,7 +5,7 @@
   <br>
   <br>
     <a href="https://github.com/MISAKIGA">
-    <img style="height:auto;" alt="" width="100" height="100" class="avatar avatar-user width-full border color-bg-primary" src="https://avatars.githubusercontent.com/u/34915635?v=4">
+    <img style="height:auto;" alt="" width="100" height="100" src="https://avatars.githubusercontent.com/u/34915635?v=4">
   </a>
   <br>
  <br>
@@ -20,7 +20,7 @@ Like playing badminton and running, occasionally play basketball. A learning fan
 </a>
 
 <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=misakiga&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true&hide=contribs,issues" />
+    <img src="https://github-readme-stats.vercel.app/api?username=misakiga&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=f6f5ec&hide_title=true&hide_border=true&hide=contribs,issues" />
 </a>
 <br>
 <br>
