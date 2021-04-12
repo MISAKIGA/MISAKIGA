@@ -19,8 +19,8 @@ Like playing badminton and running, occasionally play basketball. A learning fan
     <img src="https://raw.githubusercontent.com/MISAKIGA/MISAKIGA/main/soc/gh.svg"/>
 </a>
 
-<a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=misakiga&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=f6f5ec&hide_title=true&hide_border=true&hide=contribs,issues" />
+<a style="border:5px solid #f6f5ec;" href="#">
+    <img  src="https://github-readme-stats.vercel.app/api?username=misakiga&show_icons=true&icon_color=fffef9&text_color=718096&bg_color=fffef9&hide_title=true&hide_border=true&hide=contribs,issues" />
 </a>
 <br>
 <br>
