@@ -13,7 +13,10 @@
 Like playing badminton and running, occasionally play basketball. A learning fanatic✨. Like to research the latest technology. 
 <br>
 <br>
-<div style="width:520px ;margin:0 auto;align：center;text-align:left;">
+<div>
+
+
+</div>
 <a href="https://github.com/misakiga">
     <img src="https://raw.githubusercontent.com/MISAKIGA/MISAKIGA/main/soc/bl.svg"/>
 </a>
@@ -33,6 +36,12 @@ Like playing badminton and running, occasionally play basketball. A learning fan
 
 :bar_chart: Weekly development breakdown
 
+1111 <br>
+123123<br>
+234423<br>
+3453<br>
+456456<br>
+45646<br>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -45,9 +54,6 @@ Like playing badminton and running, occasionally play basketball. A learning fan
 <a href="#">
     <img src="https://readme-jokes.vercel.app/api"/>
 </a>
-
-
-</div>
 
 <!-- 
 
