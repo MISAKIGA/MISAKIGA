@@ -1,29 +1,39 @@
 ### Hi there 👋
+<div align="center">
+  <br>
+  <br>
+  <br>
+  <br>
+    <a href="https://wangchujiang.com/">
+    <img style="height:auto;" alt="" width="100" height="100" class="avatar avatar-user width-full border color-bg-primary" src="https://avatars.githubusercontent.com/u/34915635?v=4">
+  </a>
+  <br>
 
 Like playing badminton and running, occasionally play basketball. A learning fanatic✨. Like to research the latest technology. 
 
+[![Blog](https://raw.githubusercontent.com/MISAKIGA/MISAKIGA/main/soc/bl.svg)](https://misakiga.gitee.io/) [![GitHub](https://raw.githubusercontent.com/MISAKIGA/MISAKIGA/main/soc/gh.svg)](https://github.com/misakiga)
 
-![](https://github-readme-stats.vercel.app/api?username=misakiga)
+<a href="https://wangchujiang.com/">
+    <img src="https://github-readme-stats.vercel.app/api?username=misakiga&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true&hide=contribs,issues" />
+</a>
 
-[![Blog](https://raw.githubusercontent.com/MISAKIGA/MISAKIGA/main/soc/bl.svg)](https://misakiga.gitee.io/)
 
-[![GitHub](https://raw.githubusercontent.com/MISAKIGA/MISAKIGA/main/soc/gh.svg)](https://github.com/misakiga)
 
-<!--
-**MISAKIGA/MISAKIGA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 
 
-Here are some ideas to get you started:
+奖杯 🏆
+<a href="https://wangchujiang.com/">
+    <img src="https://github-profile-trophy.vercel.app/?username=misakiga&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=1&column=4" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![](https://github-readme-stats.vercel.app/api?username=misakiga) 
 -->
+
 
 ![Dino](https://raw.githubusercontent.com/MISAKIGA/MISAKIGA/main/dino.gif)
 
 | ![Praveen GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=praveenscience) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
+
+  <br>
+  <br>
+</div>
