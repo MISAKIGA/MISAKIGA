@@ -11,10 +11,19 @@
 
 Like playing badminton and running, occasionally play basketball. A learning fanatic✨. Like to research the latest technology. 
 
-[![Blog](https://raw.githubusercontent.com/MISAKIGA/MISAKIGA/main/soc/bl.svg)](https://misakiga.gitee.io/) [![GitHub](https://raw.githubusercontent.com/MISAKIGA/MISAKIGA/main/soc/gh.svg)](https://github.com/misakiga)
+<a href="https://github.com/misakiga">
+    <img src="https://raw.githubusercontent.com/MISAKIGA/MISAKIGA/main/soc/bl.svg"/>
+</a>
+<a href="https://misakiga.gitee.io/">
+    <img src="https://raw.githubusercontent.com/MISAKIGA/MISAKIGA/main/soc/gh.svg"/>
+</a>
 
 <a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=misakiga&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true&hide=contribs,issues" />
+</a>
+
+<a href="#">
+    <img src="https://readme-jokes.vercel.app/api"/>
 </a>
 
 <!-- 
@@ -27,12 +36,8 @@ Like playing badminton and running, occasionally play basketball. A learning fan
 ![](https://github-readme-stats.vercel.app/api?username=misakiga) 
 -->
 
-<div>
 
 <a href="#">
     <img src="https://raw.githubusercontent.com/MISAKIGA/MISAKIGA/main/dino.gif"/>
 </a>
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-</div>
 </div>
