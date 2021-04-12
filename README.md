@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div style="text-align:center; width: 100%">
+<div align=center>
   <br>
   <br>
   <br>
