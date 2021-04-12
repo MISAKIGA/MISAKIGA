@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div style="width: 100%;" align="center">
+<div style="text-align:center; width: 100%">
   <br>
   <br>
   <br>
@@ -13,10 +13,6 @@
 Like playing badminton and running, occasionally play basketball. A learning fanatic✨. Like to research the latest technology. 
 <br>
 <br>
-<div>
-
-
-</div>
 <a href="https://github.com/misakiga">
     <img src="https://raw.githubusercontent.com/MISAKIGA/MISAKIGA/main/soc/bl.svg"/>
 </a>
@@ -27,25 +23,21 @@ Like playing badminton and running, occasionally play basketball. A learning fan
 <br>
 
 <div>
+
 <a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=misakiga&show_icons=true&icon_color=fffef9&text_color=718096&bg_color=3e4145&hide_title=true&hide_border=true&hide=contribs,issues" />
 </a>
 
 
-<div style="text-align:left">
+<div style="">
 
 :bar_chart: Weekly development breakdown
 
-1111 <br>
-123123<br>
-234423<br>
-3453<br>
-456456<br>
-45646<br>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 </div>
+
 </div>
 
 <br>
