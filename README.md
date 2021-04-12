@@ -13,7 +13,7 @@
 Like playing badminton and running, occasionally play basketball. A learning fanatic✨. Like to research the latest technology. 
 <br>
 <br>
-<div style="width:500px ;margin:0 auto;align：center;text-align:left;">
+<div style="width:520px ;margin:0 auto;align：center;text-align:left;">
 <a href="https://github.com/misakiga">
     <img src="https://raw.githubusercontent.com/MISAKIGA/MISAKIGA/main/soc/bl.svg"/>
 </a>
