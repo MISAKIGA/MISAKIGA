@@ -5,7 +5,10 @@ Like playing badminton and running, occasionally play basketball. A learning fan
 
 ![](https://github-readme-stats.vercel.app/api?username=misakiga)
 
-[![Website](https://raw.githubusercontent.com/misakiga/misakiga/master/soc/ws.svg)](https://misakiga.gitee.io/) [![Blog]
+ [![Blog](https://raw.githubusercontent.com/misakiga/misakiga/main/soc/bl.svg)](https://misakiga.gitee.io/)
+
+[![GitHub](https://raw.githubusercontent.com/misakiga/misakiga/main/soc/gh.svg)](https://github.com/misakiga)
+
 <!--
 **MISAKIGA/MISAKIGA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
