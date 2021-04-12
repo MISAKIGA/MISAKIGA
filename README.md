@@ -21,7 +21,7 @@ Like playing badminton and running, occasionally play basketball. A learning fan
 <br>
 <br>
 <a href="#">
-    <img style="border:1px solid red;" src="https://github-readme-stats.vercel.app/api?username=misakiga&show_icons=true&icon_color=fffef9&text_color=718096&bg_color=fffef9&hide_title=true&hide_border=true&hide=contribs,issues" />
+    <img src="https://github-readme-stats.vercel.app/api?username=misakiga&show_icons=true&icon_color=fffef9&text_color=718096&bg_color=3e4145&hide_title=true&hide_border=true&hide=contribs,issues" />
 </a>
 <br>
 <br>
@@ -42,7 +42,6 @@ Like playing badminton and running, occasionally play basketball. A learning fan
 
 
 <a href="#">
-    <img style="border:2px solid red;" 
-    src="https://raw.githubusercontent.com/MISAKIGA/MISAKIGA/main/dino.gif"/>
+    <img src="https://raw.githubusercontent.com/MISAKIGA/MISAKIGA/main/dino.gif"/>
 </a>
 </div>
