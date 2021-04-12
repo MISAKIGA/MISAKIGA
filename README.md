@@ -27,7 +27,7 @@ Like playing badminton and running, occasionally play basketball. A learning fan
 
 
 <div align="left">
-#### :bar_chart: Weekly development breakdown
+:bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 </div>
