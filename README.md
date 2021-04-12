@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div align=center>
+<div align="center">
   <br>
   <br>
   <br>
@@ -22,7 +22,7 @@ Like playing badminton and running, occasionally play basketball. A learning fan
 <br>
 <br>
 
-<div>
+<div style="">
 
 <a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=misakiga&show_icons=true&icon_color=fffef9&text_color=718096&bg_color=3e4145&hide_title=true&hide_border=true&hide=contribs,issues" />
