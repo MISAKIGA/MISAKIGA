@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div align="center">
+<div style="width: 100%;" align="center">
   <br>
   <br>
   <br>
@@ -13,6 +13,7 @@
 Like playing badminton and running, occasionally play basketball. A learning fanatic✨. Like to research the latest technology. 
 <br>
 <br>
+<div style="width:500px ;margin:0 auto;align：center;text-align:left;">
 <a href="https://github.com/misakiga">
     <img src="https://raw.githubusercontent.com/MISAKIGA/MISAKIGA/main/soc/bl.svg"/>
 </a>
@@ -28,7 +29,7 @@ Like playing badminton and running, occasionally play basketball. A learning fan
 </a>
 
 
-<div style="float:left">
+<div style="text-align:left">
 
 :bar_chart: Weekly development breakdown
 
@@ -44,6 +45,9 @@ Like playing badminton and running, occasionally play basketball. A learning fan
 <a href="#">
     <img src="https://readme-jokes.vercel.app/api"/>
 </a>
+
+
+</div>
 
 <!-- 
 
