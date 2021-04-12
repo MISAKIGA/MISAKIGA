@@ -25,7 +25,7 @@ Like playing badminton and running, occasionally play basketball. A learning fan
 <div style="">
 
 <a href="#" style="float: left">
-    <img style="width:350px;" src="https://github-readme-stats.vercel.app/api?username=misakiga&show_icons=true&icon_color=80752c&text_color=905a3d&bg_color=feeeed&hide_title=true&hide_border=true&hide=contribs,issues" />
+    <img style="width:340px;" src="https://github-readme-stats.vercel.app/api?username=misakiga&show_icons=true&icon_color=80752c&text_color=905a3d&bg_color=fffffb&hide_title=true&hide_border=true&hide=contribs,issues" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=misakiga&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=1&column=3" />
 
