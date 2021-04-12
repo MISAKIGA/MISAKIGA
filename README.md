@@ -5,7 +5,7 @@ Like playing badminton and running, occasionally play basketball. A learning fan
 
 ![](https://github-readme-stats.vercel.app/api?username=misakiga)
 
- [![Blog](https://raw.githubusercontent.com/misakiga/misakiga/main/soc/bl.svg)](https://misakiga.gitee.io/)
+[![Blog](https://raw.githubusercontent.com/misakiga/misakiga/main/soc/bl.svg)](https://misakiga.gitee.io/)
 
 [![GitHub](https://raw.githubusercontent.com/misakiga/misakiga/main/soc/gh.svg)](https://github.com/misakiga)
 
