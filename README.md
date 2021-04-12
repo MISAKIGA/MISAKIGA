@@ -35,6 +35,13 @@ Like playing badminton and running, occasionally play basketball. A learning fan
 
 
 <!--START_SECTION:waka-->
+```text
+VimL         2 hrs 15 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.78 % 
+Bash         1 hr 55 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.79 % 
+SCSS         1 hr 40 mins    █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
+Other        1 hr 1 min      ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+JavaScript   26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+```
 <!--END_SECTION:waka-->
 </div>
 
