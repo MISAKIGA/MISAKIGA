@@ -38,7 +38,7 @@ Like playing badminton and running, occasionally play basketball. A learning fan
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown     34 mins         ████████████████████████▒   97.65 % 
 ```
 <!--END_SECTION:waka-->
 </div>
