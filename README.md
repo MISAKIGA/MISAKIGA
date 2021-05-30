@@ -38,7 +38,9 @@ Like playing badminton and running, occasionally play basketball. A learning fan
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     34 mins         ████████████████████████▒   97.65 % 
+Markdown   1 hr 9 mins     ███████████████░░░░░░░░░░   59.64 % 
+Python     36 mins         ████████░░░░░░░░░░░░░░░░░   31.69 % 
+YAML       9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
 ```
 <!--END_SECTION:waka-->
 </div>
