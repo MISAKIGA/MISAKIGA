@@ -38,10 +38,10 @@ Like playing badminton and running, occasionally play basketball. A learning fan
 
 <!--START_SECTION:waka-->
 ```text
-XML          1 hr 21 mins    ██████████████████▓░░░░░░   74.66 % 
-Java         20 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.26 % 
-YAML         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-Bash         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+XML          1 hr 23 mins    ██████████████░░░░░░░░░░░   55.90 % 
+Java         53 mins         █████████░░░░░░░░░░░░░░░░   35.79 % 
+Bash         7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+YAML         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 ```
 <!--END_SECTION:waka-->
 </div>
