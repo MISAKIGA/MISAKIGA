@@ -40,7 +40,7 @@ Like playing badminton and running, occasionally play basketball. A learning fan
 ```text
 Java         3 hrs 48 mins   ████████████████████▓░░░░   82.20 % 
 Git Config   21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-HTML         15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+HTML         15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
 Properties   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 ```
