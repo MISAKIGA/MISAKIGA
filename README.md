@@ -39,12 +39,12 @@ Like playing badminton and running, occasionally play basketball. A learning fan
 <!--START_SECTION:waka-->
 
 ```text
-Java                                   17 hrs 41 mins  ███████████████████▒░░░░░   77.74 %
-XML                                    2 hrs 27 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 %
-YAML                                   34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-JavaScript                             26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-HTML                                   22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-Activiti BPMN 2.0 Engine XML process   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+Java                                   15 hrs 50 mins  ████████████████████░░░░░   79.96 %
+XML                                    1 hr 44 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
+Activiti BPMN 2.0 Engine XML process   31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+JavaScript                             28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+YAML                                   22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+GitIgnore file                         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
 ```
 
 <!--END_SECTION:waka-->
