@@ -40,10 +40,10 @@ Like playing badminton and running, occasionally play basketball. A learning fan
 
 ```text
 Java         21 hrs 12 mins  ███████████████████████░░   91.41 %
-XML          1 hr 21 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
+XML          1 hr 21 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
 FTL          19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
 JavaScript   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-Properties   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Properties   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
