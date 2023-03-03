@@ -39,12 +39,12 @@ Like playing badminton and running, occasionally play basketball. A learning fan
 <!--START_SECTION:waka-->
 
 ```text
-textmate         4 hrs 23 mins   ██████████████░░░░░░░░░░░   56.24 %
-Java             1 hr 48 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.07 %
-Bash             1 hr 2 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 %
-XML              14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
-Docker           11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
-Shell Script     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+Java           1 hr 30 mins    ████████████▓░░░░░░░░░░░░   50.75 %
+textmate       34 mins         █████░░░░░░░░░░░░░░░░░░░░   19.60 %
+XML            34 mins         █████░░░░░░░░░░░░░░░░░░░░   19.44 %
+Docker         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+Bash           5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+Shell Script   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
 ```
 
 <!--END_SECTION:waka-->
