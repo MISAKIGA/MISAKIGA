@@ -39,11 +39,11 @@ Like playing badminton and running, occasionally play basketball. A learning fan
 <!--START_SECTION:waka-->
 
 ```txt
-Shell Script   1 min           ████████████████████████░   95.95 %
-YAML           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
-Go             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-Bash           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-Markdown       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+YAML           9 mins          █████████████████████░░░░   83.81 %
+Shell Script   1 min           ████░░░░░░░░░░░░░░░░░░░░░   15.84 %
+Go             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Bash           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Markdown       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
