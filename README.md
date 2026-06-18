@@ -39,11 +39,11 @@ Like playing badminton and running, occasionally play basketball. A learning fan
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown         8 hrs 59 mins         ████████░░░░░░░░░░░░░░░░░   32.05 %
-Java             8 hrs 55 mins         ████████░░░░░░░░░░░░░░░░░   31.81 %
-Vue              2 hrs 41 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
-SQL              1 hr 37 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
-YAML             1 hr 12 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+Markdown     8 hrs 6 mins          ████████▒░░░░░░░░░░░░░░░░   33.85 %
+Java         7 hrs 36 mins         ████████░░░░░░░░░░░░░░░░░   31.74 %
+SQL          1 hr 15 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
+YAML         1 hr 9 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
+Other        1 hr 8 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
 ```
 
 <!--END_SECTION:waka-->
